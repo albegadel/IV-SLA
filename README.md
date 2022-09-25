@@ -4,16 +4,9 @@ Infraestructura Virtual, curso 22-23 Asignatura Grado en Ingeniería Informátic
 # Problema planteado
 ----
 
-En ocasiones de estrés durante las guardias de urgencias, resulta complejo recordar la dosis de medicación poco habitual. 
+Existen muchas alternativas de entretenimiento por streaming y a veces cuesta elegir qué ver y dónde porque cada vez más hay usuarios con varias subscripciones.
 
-Por tanto sería de utilidad desarrollar una aplicación en la que poder calcular la dosis en base a ciertos parámetros e incompatibilidades con otros medicamentos que esté tomando el paciente.
-
-Optimizar este proceso puede ayudar a aliviar la carga de trabajo y reducir el tiempo medio de espera.
-
-----
-### ¿Debería estar en la nube?
-En mi opinión, sí, totalmente. El motivo principal es que el sistema informático sanitario andaluz falla a menudo y sus ordenadores no son del todo fiables.
-Por otro lado el no tener que instalar nada facilitaría la adopción de la aplicación.
+La idea sería crear algún tipo de sistema de recomendación de series/películas en base a tus gustos y disponibilidad en tus servicios.
 
 ---
 ### Documentación
