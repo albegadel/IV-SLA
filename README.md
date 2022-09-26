@@ -12,7 +12,7 @@ Para poder recomendar una serie o película debemos obtener alguna entrada de qu
 
 * Marcar tus plataformas disponibles.
 * Mostrar las mejores 5 películas o series en base a su puntuación en rotten tomatoes/imdb/filmaffinity.
-* Dar la opción al usuario a elegir: No me interesa, la he visto, me encantó (al estilo tinder)
+* Dar la opción al usuario a elegir: me interesa, no me interesa, la he visto, me encantó (al estilo tinder)
 * Recomendar series o películas mejor valoradas de las categorías favoritas, o que más coincidan con otros usuarios.
 
 ### ¿Es adecuada la nube?
