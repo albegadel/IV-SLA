@@ -6,7 +6,7 @@ Infraestructura Virtual, curso 22-23 Asignatura Grado en Ingeniería Informátic
 
 Existen muchas alternativas de entretenimiento por streaming y a veces cuesta elegir qué ver y dónde porque cada vez más hay usuarios con varias subscripciones.
 
-La idea sería crear algún tipo de sistema de recomendación de series/películas en base a tus gustos y disponibilidad en tus servicios.
+La idea sería crear un de sistema de recomendación de series/películas en base a tus gustos y disponibilidad en tus servicios.
 
 ---
 ### Documentación
