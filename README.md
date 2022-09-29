@@ -4,19 +4,22 @@ Infraestructura Virtual, curso 22-23 Asignatura Grado en Ingeniería Informátic
 # Problema planteado
 ----
 
-Existen muchas alternativas de entretenimiento por streaming y a veces me cuesta elegir personalmente qué ver y dónde lo podría encontrar. Es habitual que alguien me recomiende una serie, pero que yo no disponga del servicio por lo que no es una recomendación útil.
+La comunicación privada ha sido uno de los rompecabezas principales para la seguridad para la sociedad. Una de las técnicas previa a los cifrados fue el uso del ocultamiento del mensaje en vasijas o tapándolo con cera.
+
+Ocultar un mensaje en un medio no evidente facilita su transmisión sin ser detectado y un cifrado le proporciona seguridad.
 
 ### Lógica de negocio
 
-Para poder recomendar una serie o película debemos obtener alguna entrada de qué a visto o no y si le gustó. La metodología a seguir sería la siguiente:
+Utilizar técnicas de esteganografía y cifrado para ocultar un mensaje en una imagen del cliente.
 
-* Marcar tus plataformas disponibles.
-* Mostrar las mejores 5 películas o series en base a su puntuación en rotten tomatoes/imdb/filmaffinity.
-* Dar la opción al usuario a elegir: me interesa, no me interesa, la he visto, me encantó (al estilo tinder)
-* Recomendar series o películas mejor valoradas de las categorías favoritas, o que más coincidan con otros usuarios.
+* Disponibilidad de varios cifrados.
+* Procesamiento de la imagen.
+* Interpretación y procesado de una imagen para buscar un posible mensaje utilizando varias metodologías.
+
+
 
 ### ¿Es adecuada la nube?
-Sí porque la información de otros usuarios similares puede ayudar a crear una recomendación personalizada.
+Sí, siempre y cuando no se almacenen datos o claves de los usuarios que puedan perjudicar la seguridad del sistema.
 
 
 ---
