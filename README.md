@@ -22,6 +22,15 @@ Utilizar técnicas de esteganografía y cifrado para ocultar un mensaje en una i
 Sí, siempre y cuando no se almacenen datos o claves de los usuarios que puedan perjudicar la seguridad del sistema.
 
 
+### Planificación
+
+El proyecto se ha planteado en un mínimo de 5 metas o milestones:
+- M0 : Es una meta interna donde el objetivo es diseñar y documentar los datos/algoritmos que se van a utilizar.
+- M1-3: Son metas de desarrollo incrementales donde se obtendrán un programa con funcionalidad cada vez más compleja.
+- M4: El objetivo es tener un programa, accesible por internet con la interacción básica con el usuario.
+- M5: El objetivo es integrar toda la funcionalidad de M1-M3 y hacerla disponible al usuario.
+
+
 ---
 ### Documentación
 
